@@ -1,1 +1,10 @@
+body {
+  background-color:black;
+}
 
+.theme {
+  position:relative;
+  color:white;
+  width:500px;
+  
+}
