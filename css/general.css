@@ -41,7 +41,7 @@ body {
 
 .block1{
 	background-image: url("../img/first_background.png");
-	padding: 200px;
+	background-size:100vw;
 }
 
 .block2{
