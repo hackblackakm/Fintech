@@ -3,8 +3,9 @@ body {
 }
 
 .theme {
-  position:relative;
-  top:-25vw;
+  position: relative;
+    left: 0px;
+    top:-25vw;
   color:white;
   width:500px;
   
