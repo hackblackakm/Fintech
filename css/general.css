@@ -26,3 +26,18 @@ ul,li {
 	margin-left:50vw;
 	margin-right:10vw;
 }
+
+.block1{
+	background-image: url("../img/first_background.png");
+	padding: 200px;
+}
+
+.block2{
+	background-color : #2A242A;
+	padding: 200px;
+}
+
+.block3{
+	background-color : #F1E569;
+	padding: 200px;
+}
