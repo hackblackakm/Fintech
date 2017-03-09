@@ -4,6 +4,7 @@ body {
 
 .theme {
   position: relative;
+	top:0px;
   color:white;
   width:500px;
   
