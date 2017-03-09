@@ -3,22 +3,33 @@ body {
 }
 
 .theme {
-  position: relative;
-	top:0px;
-  color:white;
-  width:500px;
+	display:flex;
+	position: absolute;
+	width:100%;
+	height:60px;
+	font-size:30px;
+	top:10px;
+	left:0px;
+	
   
 }
-
-ul,li {
-    display: inline;
-    list-style-type: disc;
-    margin-top: 1em;
-    margin-bottom: 1 em;
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 40px;
+ .th_sub_f{
+	float:left;
 }
+
+.th_sub{
+	
+	color:white;
+	
+	padding-right:40px;
+	margin-top:30px;
+}
+.Fintech{
+	margin-top:30px;
+	padding:0px 120px 0px 0px;
+	color:#fca521;
+}
+
 
 .FintechMoney{
 	border:5px solid;
