@@ -42,6 +42,7 @@ body {
 .block1{
 	background-image: url("../img/first_background.png");
 	background-size:100vw;
+	width:100vw;
 }
 
 .block2{
