@@ -57,21 +57,21 @@ body {
 	height:40px;
 }
 .fb{
-        position: absolute;
+        position: fixed;
 	top:40vw;
 	right:30vw;
 	width:14%;
 	height:40px;
 }
 .youtube{
-       position:absolute;
+       position:fixed;
        top:40vw;
        right:20vw;
        width:14%;
        height:40px;	
 }
 .mail{
-      position:absolute;
+      position:fixed;
       top:40vw;
       right:10vw;
       width:14%;
