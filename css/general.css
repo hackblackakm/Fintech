@@ -41,7 +41,7 @@ body {
 
 
 .apple{
-	position: absolute;	
+	position: fixed;	
 	top:38vw;
 	left:18vw;
 	width:14%;	
@@ -50,7 +50,7 @@ body {
 
 
 .google{
-	position: absolute;
+	position: fixed;
 	top:38vw;
 	left:30vw;
 	width:14%;
