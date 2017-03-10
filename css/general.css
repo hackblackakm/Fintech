@@ -65,7 +65,7 @@ body {
 	height:40px;
 }
 .fb{
-        position: fixed;
+        position: absolute;
 	top:37vw;
 	right:10vw;
 	width:14%;
