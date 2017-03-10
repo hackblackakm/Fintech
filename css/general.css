@@ -40,7 +40,7 @@ body {
 }
 
 .download{
-	position: fixed;
+	position: absolute;
 	top:38.2vw;
 	left:2vw;
 	width:14%;
@@ -49,7 +49,7 @@ body {
 
 
 .apple{
-	position: fixed;	
+	position: absolute;	
 	top:38vw;
 	left:18vw;
 	width:14%;	
@@ -58,7 +58,7 @@ body {
 
 
 .google{
-	position: fixed;
+	position: absolute;
 	top:38vw;
 	left:30vw;
 	width:14%;
@@ -72,14 +72,14 @@ body {
 	height:80px;
 }
 .youtube{
-        position: fixed;
+        position: absolute;
 	top: 37vw;
 	right:5vw;
 	width:14%;
 	height:40px:
 }
 .mail{
-        position:fixed;
+        position:absolute;
 	top:37vw;
 	right:0vw;
 	width:14%;
