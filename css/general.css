@@ -39,6 +39,25 @@ body {
 	margin-right:10vw;
 }
 
+
+.apple{
+	position: absolute;	
+	top:38vw;
+	left:18vw;
+	width:14%;	
+	height:40px;	 
+}
+
+
+.google{
+	position: absolute;
+	top:38vw;
+	left:30vw;
+	width:14%;
+	height:40px;
+}
+
+
 .block1{
 	background-image: url("../img/first_background.png");
 	background-size:100vw;
