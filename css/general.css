@@ -39,6 +39,14 @@ body {
 	margin-right:10vw;
 }
 
+.download{
+	position: fixed;
+	top:38.2vw;
+	left:2vw;
+	width:14%;
+	height:40px;
+}
+
 
 .apple{
 	position: fixed;	
