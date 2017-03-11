@@ -1,3 +1,4 @@
+
 body {
   background-color:black;
 }
@@ -14,7 +15,8 @@ body {
   
 }
  .th_sub_f{
-	 left:1vw;	
+	position: absolute;
+	left:1vw;	
 	width:9%;
 	height:40px;
 }
