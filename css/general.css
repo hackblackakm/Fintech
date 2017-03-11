@@ -7,26 +7,29 @@ body {
 	position: absolute;
 	width:100%;
 	height:60px;
-	font-size:30px;
-	top:10px;
-	left:0px;
+	font-size:2.2vw;
+	top:1vw;
+	left:0vw;
 	
   
 }
  .th_sub_f{
 	float:left;
+	 left:1vw;	
+	width:9%;
+	height:40px;
 }
 
 .th_sub{
 	
 	color:white;
 	
-	padding-right:40px;
-	margin-top:30px;
+	padding-right:2vw;
+	margin-top:1vw;
 }
 .Fintech{
-	margin-top:30px;
-	padding:0px 120px 0px 0px;
+	margin-top:1vw;
+	padding:0px 10vw 0px 5.5vw;
 	color:#fca521;
 }
 
