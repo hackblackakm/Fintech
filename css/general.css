@@ -1,7 +1,6 @@
 body {
   background-color:black;
 }
-
 a:hover{position:relative;top:1px;left:1px;}
 <!--下壓式連結-->
 
@@ -72,7 +71,8 @@ a:hover{position:relative;top:1px;left:1px;}
 	height:40px;
 }
 .fb{
-        position: absolute;
+
+	position: absolute;
 	top:37vw;
 	right:10vw;
 	width:14%;
@@ -103,6 +103,7 @@ a:hover{position:relative;top:1px;left:1px;}
 	border-color:white;
 	border-style:solid;
 	border-width:5px;
+	font-family:"Calibri";
 }
 
 .fintech_c{
