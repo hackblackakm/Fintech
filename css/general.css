@@ -139,10 +139,15 @@ a:hover{position:relative;top:1px;left:1px;}
 
 .block2{
 	background-color : #2A242A;
-	padding: 200px;
+	top: 42.8vw;
+	width:100vw;
+	height:42.8vw;
 }
 
 .block3{
 	background-color : #F1E569;
-	padding: 200px;
+	top: 85.6vw;	
+	background-size:100vw;		
+	width:100vw;
+	height:30vw;
 }
