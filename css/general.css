@@ -184,7 +184,9 @@ a:hover{position:relative;top:1px;left:1px;}
 	font-family:"Calibri";
 }
 
-
+.p3_whole{
+	position:absolute;
+}
 
 .video{
 	position: absolute;
