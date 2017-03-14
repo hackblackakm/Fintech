@@ -221,14 +221,14 @@ a:hover{position:relative;top:1px;left:1px;}
 .block1{
 	background-image: url("../img/first_background.png");
 	background-size:100vw;
-	width:100vw;
+	width:80vw;
 	height:42.8vw;
 }
 
 .block2{
 	background-color : #2A242A;
 	top: 42.8vw;
-	width:100vw;
+	width:80vw;
 	height:42.8vw;
 }
 
