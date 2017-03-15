@@ -73,17 +73,20 @@ a:hover{position:relative;top:1px;left:1px;}
 	position: absolute;
 	top:37vw;
 	right:10vw;
+	width:14%;
 
 }
 .youtube{
         position: absolute;
 	top: 37vw;
 	right:5vw;
+	width:14%;
 }
 .mail{
         position:absolute;
 	top:37vw;
-	right:0vw;	
+	right:0vw;
+	width:14%;
 }
 
 .p1_r_c{
