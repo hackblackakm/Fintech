@@ -7,6 +7,8 @@
 	width:70%;
 	font-family:"Calibri";
 }
+
+/*標題*/
 .feature{
 	position:absolute;	
 	top:-7vw;	
@@ -15,23 +17,13 @@
 	font-size:4vw;
 }
 
+/*圖示*/
 .feature_icon{
 		top:52vw;		
 		margin: 0vw 5.4vw 0vw 0vw;	
 		width:11%;	
 		height:30px;
 }
-
-
-/*標題和圖示*/
-.p2_c_d{
-	text-align:center;
-	position:absolute;
-	height:40%;
-	width:100%;
-	bottom:0vw;
-}
-
 
 /*中間文字*/
 .p2_c_d_p1{
@@ -51,4 +43,14 @@
 	top:76vw;	
 	left:0vw;	
 	margin:8px 45% 8px 45%;		
+}
+
+
+/*未知物品*/
+.p2_c_d{
+	text-align:center;
+	position:absolute;
+	height:40%;
+	width:100%;
+	bottom:0vw;
 }
