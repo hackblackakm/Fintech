@@ -52,8 +52,9 @@ a:hover{position:relative;top:1px;left:1px;}
 .th_sub{
 	font-family:"Calibri";
 	color:white;	
+	position: absolute;
 	padding-right:2vw;
-	margin-top:1vw;
+	padding-top:2vw;
 	border : 0;
 	outline : none;
 }
