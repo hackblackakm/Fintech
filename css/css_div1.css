@@ -1,3 +1,4 @@
+/*最上面一排的全部東西*/
 .theme {
 	display:flex;
 	position: absolute;
@@ -39,14 +40,14 @@
 }
 
 
-/*上方文字*/
+/*左上方logo*/
  .th_sub_f{
 	position: absolute;
 	left:1vw;	
 	width:9%;
 	height:40px;
 }
-
+/*上方三個按鈕(home.about sign in)*/
 .th_sub{
 	font-family:"Calibri";
 	color:white;	
@@ -66,16 +67,6 @@
 }
 
 
-/*未知物品*/
-.FintechMoney{
-	border:5px solid;
-	color:white;
-	border-color:#ffffff;
-	margin-left:50vw;
-	margin-right:10vw;
-}
-
-
 /*下方圖示*/
 .download{
 	position: absolute;
@@ -85,7 +76,6 @@
 	width:14%;
 	height:40px;
 }
-
 .apple{
 	position: absolute;	
 	top:38vw;
@@ -93,7 +83,6 @@
 	width:14%;	
 	height:40px;	 
 }
-
 .google{
 	position: absolute;
 	top:38vw;
@@ -125,7 +114,6 @@
 }
 
 /*右方方塊*/
-
 .p1_r_c{
 	display:flex;
 	position:absolute;
@@ -138,6 +126,7 @@
 	border-width:5px;
 	font-family:"Calibri";
 }
+/*右方方塊logo部分*/
 .fintech_c{
 	
 	position: absolute;	
@@ -146,8 +135,7 @@
 	width:8.5%;
 	height:70px;
 }
-
-
+/*右方方塊logo旁的Fintech文字*/
 .fintech_w{
 	padding-top:3.6vw;
 	padding-left:8.5vw;
@@ -155,9 +143,20 @@
 	font-size:3vw;
 	
 }
-
+/*右方方塊文字部分*/
 .fintech_t{
 	font-size:2.2vw;
 	padding-top:2.6vw;
 	padding-left:8vw;
+}
+
+
+
+/*未知物品*/
+.FintechMoney{
+	border:5px solid;
+	color:white;
+	border-color:#ffffff;
+	margin-left:50vw;
+	margin-right:10vw;
 }
