@@ -8,30 +8,7 @@
 	font-family:"Calibri";
  }
 
-.fintech_c{
-	
-	position: absolute;	
-	top:1.8vw;
-	left:0.8vw;
-	width:8.5%;
-	height:70px;
-}
-
-
-.fintech_w{
-	padding-top:3.6vw;
-	padding-left:8.5vw;
-	color:orange;
-	font-size:3vw;
-	
-}
-
-.fintech_t{
-	font-size:2.2vw;
-	padding-top:2.6vw;
-	padding-left:8vw;
-}
-
+<!--下拉選單-->
 .navbar{
 	cursor : pointer;
 }
@@ -61,6 +38,8 @@
 	background-color : #F1E569;
 }
 
+
+<!--上方文字-->
  .th_sub_f{
 	position: absolute;
 	left:1vw;	
@@ -77,6 +56,9 @@
 	border : 0;
 	outline : none;
 }
+
+
+<!--左上文字-->
 .Fintech{
 	margin-top:1vw;
 	padding:0px 10vw 0px 5.5vw;
@@ -84,6 +66,7 @@
 }
 
 
+<!--未知物品-->
 .FintechMoney{
 	border:5px solid;
 	color:white;
@@ -92,6 +75,8 @@
 	margin-right:10vw;
 }
 
+
+<!--下方圖示>
 .download{
 	position: absolute;
 
@@ -101,7 +86,6 @@
 	height:40px;
 }
 
-
 .apple{
 	position: absolute;	
 	top:38vw;
@@ -109,7 +93,6 @@
 	width:14%;	
 	height:40px;	 
 }
-
 
 .google{
 	position: absolute;
@@ -139,4 +122,42 @@
 	right:0vw;
 	width:5vw;
 	height:5vw;
+}
+
+<!--右方方塊-->
+
+.p1_r_c{
+	display:flex;
+	position:absolute;
+	top:11vw;	
+	left:43vw;	
+	width:50%;
+	height:11vw;	
+	border-color:white;
+	border-style:solid;
+	border-width:5px;
+	font-family:"Calibri";
+}
+.fintech_c{
+	
+	position: absolute;	
+	top:1.8vw;
+	left:0.8vw;
+	width:8.5%;
+	height:70px;
+}
+
+
+.fintech_w{
+	padding-top:3.6vw;
+	padding-left:8.5vw;
+	color:orange;
+	font-size:3vw;
+	
+}
+
+.fintech_t{
+	font-size:2.2vw;
+	padding-top:2.6vw;
+	padding-left:8vw;
 }
