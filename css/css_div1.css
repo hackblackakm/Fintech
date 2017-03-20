@@ -8,6 +8,30 @@
 	font-family:"Calibri";
  }
 
+.fintech_c{
+	
+	position: absolute;	
+	top:1.8vw;
+	left:0.8vw;
+	width:8.5%;
+	height:70px;
+}
+
+
+.fintech_w{
+	padding-top:3.6vw;
+	padding-left:8.5vw;
+	color:orange;
+	font-size:3vw;
+	
+}
+
+.fintech_t{
+	font-size:2.2vw;
+	padding-top:2.6vw;
+	padding-left:8vw;
+}
+
 .navbar{
 	cursor : pointer;
 }
