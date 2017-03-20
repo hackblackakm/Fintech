@@ -23,7 +23,7 @@
 }
 
 
-<!--標題和圖示-->
+/*標題和圖示*/
 .p2_c_d{
 	text-align:center;
 	position:absolute;
@@ -33,7 +33,7 @@
 }
 
 
-<!--中間文字-->
+/*中間文字*/
 .p2_c_d_p1{
 		position:absolute;	
 		top:66vw;	
@@ -45,7 +45,7 @@
 }
 
 
-(!--see video按鈕--)
+/*see video按鈕*/
 .p2_c_d_p2{
 	position:absolute;	
 	top:76vw;	
