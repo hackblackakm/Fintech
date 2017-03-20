@@ -1,0 +1,31 @@
+
+.p3_whole{
+	position:absolute;
+	width:100vw;
+}
+
+.video{
+	position: absolute;
+	top:2vw;
+	left:2vw;
+	width:14%;
+	height:9vw;	
+}
+
+.video_title{
+	position:absolute;	
+	font-size:3vw;
+	top:3vw;	
+	left:48vw;	
+	padding-right:1vw;	
+	font-family:"Calibri";
+}
+
+.video_text{
+	position:absolute;	
+	font-size:1.8vw;
+	top:11vw;	
+	left:48vw;
+	padding-top:1.5vw;
+	padding-right:12px;
+	font-family:"Calibri";}
