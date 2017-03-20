@@ -8,7 +8,7 @@
 	font-family:"Calibri";
  }
 
-<!--下拉選單-->
+/*下拉選單*/
 .navbar{
 	cursor : pointer;
 }
@@ -39,7 +39,7 @@
 }
 
 
-<!--上方文字-->
+/*上方文字*/
  .th_sub_f{
 	position: absolute;
 	left:1vw;	
@@ -58,7 +58,7 @@
 }
 
 
-<!--左上文字-->
+/*左上文字*/
 .Fintech{
 	margin-top:1vw;
 	padding:0px 10vw 0px 5.5vw;
@@ -66,7 +66,7 @@
 }
 
 
-<!--未知物品-->
+/*未知物品*/
 .FintechMoney{
 	border:5px solid;
 	color:white;
@@ -76,7 +76,7 @@
 }
 
 
-<!--下方圖示>
+/*下方圖示*/
 .download{
 	position: absolute;
 
@@ -124,7 +124,7 @@
 	height:5vw;
 }
 
-<!--右方方塊-->
+/*右方方塊*/
 
 .p1_r_c{
 	display:flex;
