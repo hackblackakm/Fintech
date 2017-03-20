@@ -1,0 +1,118 @@
+.theme {
+	display:flex;
+	position: absolute;
+	width:100%;
+	font-size:2.5vw;
+	top:1vw;
+	left:0vw;
+	font-family:"Calibri";
+ }
+
+.navbar{
+	cursor : pointer;
+}
+.navbar_content{
+	display: none;
+	top:4vw;
+	position : absolute;
+	background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index :2;
+}
+
+.navbar_content a{
+	float : none;
+	display : block;
+	text-decoration : none;
+	text-align :left;
+	font-size : 2vw;
+}
+
+.navbar:hover .navbar_content{
+	display : block;
+}
+
+.navbar_content a:hover{
+	background-color : #F1E569;
+}
+
+ .th_sub_f{
+	position: absolute;
+	left:1vw;	
+	width:9%;
+	height:40px;
+}
+
+.th_sub{
+	font-family:"Calibri";
+	color:white;	
+	position: relative;
+	padding-right:2vw;
+	top:1vw;
+	border : 0;
+	outline : none;
+}
+.Fintech{
+	margin-top:1vw;
+	padding:0px 10vw 0px 5.5vw;
+	color:#fca521;
+}
+
+
+.FintechMoney{
+	border:5px solid;
+	color:white;
+	border-color:#ffffff;
+	margin-left:50vw;
+	margin-right:10vw;
+}
+
+.download{
+	position: absolute;
+
+	top:38.2vw;
+	left:2vw;
+	width:14%;
+	height:40px;
+}
+
+
+.apple{
+	position: absolute;	
+	top:38vw;
+	left:18vw;
+	width:14%;	
+	height:40px;	 
+}
+
+
+.google{
+	position: absolute;
+	top:38vw;
+	left:30vw;
+	width:14%;
+	height:40px;
+}
+.fb{
+
+	position: absolute;
+	top:37vw;
+	right:10vw;
+	width:5vw;
+	height:5vw;
+}
+.youtube{
+        position: absolute;
+	top: 37vw;
+	right:5vw;
+	width:5vw;
+	height:5vw;
+}
+.mail{
+        position:absolute;
+	top:37vw;
+	right:0vw;
+	width:5vw;
+	height:5vw;
+}
