@@ -29,6 +29,8 @@
 	text-decoration : none;
 	text-align :left;
 	font-size : 2vw;
+	box-shadow:none;
+	background-color : none;
 }
 
 .navbar:hover .navbar_content{
@@ -36,8 +38,7 @@
 }
 
 .navbar_content a:hover{
-	box-shadow:none;
-	background-color : none;
+	background-color : grey;
 }
 
 
