@@ -45,4 +45,5 @@ $('.feature_icon').find('img').on('mouseenter',function(){
 		$('.p2_c_d_p1').text(src_t[temp]);
 		$('.p2_c_d_p2').data("kind",temp);
 		}
-	};
+	}
+}
