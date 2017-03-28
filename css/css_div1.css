@@ -59,7 +59,7 @@
 	border : 0;
 	outline : none;
 }
-th_sub:hover{
+.th_sub:hover{
 	background-color : #DDDDDD;
 }
 
