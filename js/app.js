@@ -44,6 +44,5 @@ $('.feature_icon').find('img').on('mouseenter',function(){
 		$(this).attr('src',src_l[temp]);
 		$('.p2_c_d_p1').text(src_t[temp]);
 		$('.p2_c_d_p2').data("kind",temp);
-		}
 	}
 })
