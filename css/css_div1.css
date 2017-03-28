@@ -32,7 +32,7 @@
 }
 
 .navbar:hover .navbar_content{
-	display : block;
+	/*display : block;*/
 }
 
 .navbar_content a:hover{
