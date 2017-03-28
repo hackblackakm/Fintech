@@ -37,7 +37,7 @@
 }
 
 .navbar_content a:hover{
-	background-color : grey;
+	background-color : #DDDDDD;
 }
 
 
@@ -57,6 +57,9 @@
 	top:1vw;
 	border : 0;
 	outline : none;
+}
+th_sub:hover{
+	background-color : #DDDDDD;
 }
 
 
