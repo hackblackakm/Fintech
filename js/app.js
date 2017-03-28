@@ -46,4 +46,4 @@ $('.feature_icon').find('img').on('mouseenter',function(){
 		$('.p2_c_d_p2').data("kind",temp);
 		}
 	}
-}
+})
