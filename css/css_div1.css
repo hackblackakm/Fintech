@@ -32,11 +32,11 @@
 }
 
 .navbar:hover .navbar_content{
-	/*display : block;*/
+	display : block;
 }
 
 .navbar_content a:hover{
-	background-color : #F1E569;
+	/*background-color : #F1E569;*/
 }
 
 
