@@ -35,10 +35,11 @@
 
 .navbar:hover .navbar_content{
 	display : block;
+	text-decoration : underline;
 }
 
 .navbar_content a:hover{
-	background-color : #DDDDDD;
+	text-decoration : underline;
 }
 
 
@@ -60,7 +61,7 @@
 	outline : none;
 }
 .th_sub:hover{
-	background-color : #DDDDDD;
+	text-decoration : underline;
 }
 
 
