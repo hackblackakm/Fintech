@@ -36,6 +36,7 @@
 }
 
 .navbar_content a:hover{
+	box-shadow:none;
 	/*background-color : #F1E569;*/
 }
 
