@@ -83,6 +83,8 @@
     width:80vw;
 }
 
+
+/*b*/
 .testb {
   cursor: pointer;
   width:10vw;
@@ -106,10 +108,12 @@
 
 .testb:hover .t_contentb {
   display: block;
-   width:10vw;
+   width:80vw;
   height:10vw;
   left:-20vw;
 }
+
+
 /*c*/
 .testc {
   cursor: pointer;
@@ -135,13 +139,14 @@
 .testc:hover .t_contentc {
   display: block;
     width:80vw;
+   left:-32vw;
 }
 /*general*/
 .general:hover .g_content {
   display: none;
    width:10vw;
   height:10vw;
-  left:-32vw;
+
 }
 
 #text{
