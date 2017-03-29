@@ -67,7 +67,7 @@
 .t_content {
   display: none;
   position: absolute;
-  top: 0vw;
+  top: -1.8vw;
   z-index: 2;
 }
 
