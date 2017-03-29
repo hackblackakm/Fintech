@@ -1,4 +1,5 @@
 // open
+/*
 var src_bright = ["img/cheap1-03.png", 
 		  "img/secure1-02.png",
 		  "img/convenient1-05.png",
@@ -45,4 +46,4 @@ $('.feature_icon').find('img').on('mouseenter',function(){
 		$('.p2_c_d_p1').text(src_t[temp]);
 		$('.p2_c_d_p2').data("kind",temp);
 	}
-})
+})*/
