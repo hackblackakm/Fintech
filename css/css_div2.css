@@ -147,7 +147,7 @@
 }
 
 #text{
-  position: relative;
-  top:13vw;
-  width:50vw;
+  position: absolute;
+  top:17vw;
+  left:23vw;
 }
