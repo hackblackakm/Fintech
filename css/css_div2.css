@@ -141,6 +141,66 @@
     width:80vw;
    left:-32vw;
 }
+
+
+/*d*/
+.testd {
+  cursor: pointer;
+  width:10vw;
+  height:10vw;
+  position: absolute;
+  top:0vw;
+  left:-4vw;
+}
+.t_contentd {
+  display: none;
+  position: absolute;
+  top: -1.8vw;
+  z-index: 2;
+}
+
+.t_contentd img{
+  display: block;
+    width:10vw;
+  height:10vw;
+}
+
+.testd:hover .t_contentd {
+  display: block;
+  left:-5vw;
+    width:80vw;
+}
+
+
+/*e*/
+.teste {
+  cursor: pointer;
+  width:10vw;
+  height:10vw;
+  position: absolute;
+  top:0vw;
+  left:-4vw;
+}
+
+.t_contente {
+  display: none;
+  position: absolute;
+  top: -1.8vw;
+  z-index: 2;
+}
+
+.t_contente img{
+  display: block;
+    width:10vw;
+  height:10vw;
+}
+
+.teste:hover .t_contente {
+  display: block;
+  left:-5vw;
+    width:80vw;
+}
+
 /*general*/
 .general:hover .g_content {
   display: none;
@@ -148,7 +208,7 @@
   height:10vw;
 
 }
-
+/*text:please hover to icon*/ 
 #text{
   position: absolute;
   top:17vw;
