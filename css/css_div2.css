@@ -79,7 +79,8 @@
 
 .test:hover .t_content {
   display: block;
-    width:100vw;
+  left:-5vw;
+    width:80vw;
   height:10vw;
 }
 
@@ -95,7 +96,7 @@
 .t_contentb {
   display: none;
   position: absolute;
-  top: 0vw;
+  top: -1.8vw;
   z-index: 2;
 }
 
@@ -123,7 +124,7 @@
 .t_contentc {
   display: none;
   position: absolute;
-  top: 0vw;
+  top: -1.8vw;
   z-index: 2;
 }
 
